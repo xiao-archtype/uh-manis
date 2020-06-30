@@ -17,11 +17,17 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`I haven't approved you to PM yet.\n`"
-    "`wait for me to approve your PM.\n`"
-    "`Until then, don't spam My PM or you'll get blocked...\n`"
-    "`CAPICHE?\n\n`"
-    "`-Userbot`")
+    "`──▄█▀█▄─────────██.\n`"
+    "`▄████████▄───▄▀█▄▄▄▄ .\n`"
+    "`██▀▼▼▼▼▼─▄▀──█▄▄ \n`"
+    "`█████▄▲▲▲─▄▄▄▀───▀▄ `"
+    "`██████▀▀▀▀─▀────────▀▀\n`"
+    "**Hello** {mention}, __this is Asistant Security\n__"
+    "`Service.You have found your way here to my \n`"
+    "__master,**@ONLYXBEAN** inbox.\n\n__"
+    "**Leave your name, phone number, address and 10k$\n**"
+    "__and hopefully you'll get a reply within 2 light years.\n__"
+  
 # =================================================================
 
 
