@@ -17,11 +17,14 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "**Hello** {mention}, __this is Asistant Security\n__"
-    "`Service.You have found your way here to my \n`"
-    "__master,**@ONLYXBEAN** inbox.\n\n__"
-    "**Leave your name, phone number, address and 10k$\n**"
-    "__and hopefully you'll get a reply within 2 light years.\n__"
+    "Source (Indonesian):\n"
+    "HeY,jangan di spam ini pesan otomatis bro pengguna saya sedang pergi!\n"
+    "Tunggu pengguna saya datang untuk menyetujui pesan anda!\n"
+    "Sampai saat itu, jangan spam PM Saya atau Anda akan diblokir\n\n"
+    "Translation (English):\n"
+    "Hey, don't spam this automatic message, bro, my users are leaving!\n"
+    "Wait for my users to come to approve your message!\n"
+    "Until then, don't spam my PM or you'll get blocked")
   
 # =================================================================
 
