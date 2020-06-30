@@ -17,11 +17,6 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`──▄█▀█▄─────────██.\n`"
-    "`▄████████▄───▄▀█▄▄▄▄ .\n`"
-    "`██▀▼▼▼▼▼─▄▀──█▄▄ \n`"
-    "`█████▄▲▲▲─▄▄▄▀───▀▄ `"
-    "`██████▀▀▀▀─▀────────▀▀\n`"
     "**Hello** {mention}, __this is Asistant Security\n__"
     "`Service.You have found your way here to my \n`"
     "__master,**@ONLYXBEAN** inbox.\n\n__"
