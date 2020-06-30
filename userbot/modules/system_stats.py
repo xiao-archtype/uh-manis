@@ -131,7 +131,7 @@ async def pipcheck(pip):
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     logo = ALIVE_LOGO
-    output = (f"`ProjectBish` is running on `{UPSTREAM_REPO_BRANCH}`\n"
+    output = (f"`XBeanNoreal` is running on `{UPSTREAM_REPO_BRANCH}`\n"
              f"====================================\n"
              f"🐍 `Python    :` v{python_version()}\n"
              f"⚙️ `Telethon  :` v{version.__version__}\n"
